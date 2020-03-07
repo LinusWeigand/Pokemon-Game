@@ -1,0 +1,12 @@
+10 10
+1 8
+xxxxxxxxxx
+xxxxxxxxxx
+xxxxxxxxxx
+###xxxxxxx
+#####x####
+#####xx##x
+#####xx###
+#####xx###
+##########
+xDD######x
